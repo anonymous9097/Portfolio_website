@@ -13,3 +13,8 @@ with col2:
     Hi, edit content in here later on..
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I built in Python. Feel free to contact me!
+"""
+st.write(content2)
